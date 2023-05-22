@@ -3,7 +3,7 @@ The documents posted here describe the mathematical principles behind a calculus
 
 The currently available documents are:
 
-## Intro-to-orthogonal-polynomials
+## [Intro-to-orthogonal-polynomials](Intro-to-orthogonal-polynomials.pdf)
 Describes orthogonal and biorthogonal polynomials and how they can be applied to populations.
 
 ## Expected-value-of-a-ratio
