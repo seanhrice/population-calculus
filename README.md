@@ -6,11 +6,11 @@ The currently available documents are:
 ## [Intro-to-orthogonal-polynomials](Intro-to-orthogonal-polynomials.pdf)
 Describes orthogonal and biorthogonal polynomials and how they can be applied to populations.
 
-## Expected-value-of-a-ratio
+## [Expected-value-of-a-ratio](Expected-value-of-a-ratio.pdf)
 Applies the orthogonal polynomial approach to the problem of calculating the expected value of the ratio of correlated    random variables. This document also explains the Taylor series approach to this problem, and compares the two methods.
 
-## Conditional-regression-theorem-proof
+## [Conditional-regression-theorem-proof](Conditional-regression-theorem-proof.pdf)
 Includes the formal proof of the condition regression theorem (described at the end of the Intro document), which allows  us to use biorthogonal bases to study multiple traits. This document also covers some lemmas relating to the relation    between the biorthogonal approach and traditional multiple regression.
 
-## Conditional-regression-with-sequences
+## [Conditional-regression-with-sequences](Conditional-regression-with-sequences.pdf)
 Shows how to apply the conditional regression theorem to sequence based traits. This also shows how we can do multiple    regression on categorical variables in general.
